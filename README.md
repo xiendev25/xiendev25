@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThoeHVmNmc4azJocnZyMnIwaGtxOXF5bmY5dWkwcHA4cThwdDdxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Cyberpunk City" />
-</div>
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=xiendev25&label=SYSTEM%20ACCESS&color=00FF41&style=flat-square" alt="Profile Views" />
 </div>
